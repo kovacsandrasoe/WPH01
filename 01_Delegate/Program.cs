@@ -10,6 +10,7 @@ namespace _01_Delegate
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello");
         }
     }
 }
