@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E730BB50-CAF7-415B-8AAD-D2EA7DAE6A5C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_04_DelegatesVsEvents</RootNamespace>
-    <AssemblyName>04_DelegatesVsEvents</AssemblyName>
+    <RootNamespace>_04_SmartList</RootNamespace>
+    <AssemblyName>04_SmartList</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
